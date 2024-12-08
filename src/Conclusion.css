@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Chivo:ital,wght@0,100..900;1,100..900&display=swap');
+
+.conclusion-container {
+    width: 100vw; /* Full viewport width */
+    background-color: #e6f4ff; /* Light blue background */
+    margin: 0; /* Remove default margins */
+    padding: 20px 0; /* Add spacing around the content */
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .conclusion-title {
+    font-size: 2rem;
+    font-family: "Climate Crisis", sans-serif; /* Use custom font if needed */
+    margin: 0;
+    color: #000;
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    text-decoration-color: #0f5a98; /* Add blue underline */
+  }
+  
+  .conclusion-text {
+    font-size: 1rem;
+    color: #333;
+    max-width: 800px;
+    font-family: "Chivo", sans-serif; /* Replace with your preferred font */
+    margin: 20px auto;
+    line-height: 1.6;
+    text-align: justify;
+  }

@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Chivo:ital,wght@0,100..900;1,100..900&display=swap');
+
+.point1-container {
+  width: 100vw; /* Full viewport width */
+  background-color: #aef0df; /* Light teal background */
+  margin: 0; /* Remove default margins */
+  padding: 0; /* Remove padding */
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.point1-content {
+  flex: 1;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  color: #333;
+  max-width: 800px;
+  margin: 0 auto; /* Center content */
+}
+
+.point1-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.point1-number {
+  background-color: #1a473d; /* Dark green background */
+  color: #fff;
+  font-size: 2rem;
+  font-weight: bold;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+
+.point1-header h2 {
+  font-size: 1.8rem;
+  color: #000;
+  font-family: "Climate Crisis", sans-serif; /* Custom font if needed */
+  margin: 0;
+}
+
+.point1-body {
+  line-height: 1.6;
+  font-size: 1rem;
+  text-align: justify;
+  font-family: "Chivo", sans-serif; /* Replace with your preferred font */
+}
+
+.point1-body strong {
+  font-size: 1.1rem;
+  font-family: "Caprasimo", sans-serif; /* Custom font if needed */
+}
+
+.point1-image {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.point1-image img {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}

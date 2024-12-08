@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Chivo:ital,wght@0,100..900;1,100..900&display=swap');
+
+.point2-container {
+    width: 100vw; /* Full viewport width */
+    background-color: #437cbd; /* Blue background */
+    margin: 0; /* Remove default margins */
+    padding: 0; /* Remove padding */
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .point2-content {
+    flex: 1;
+    padding: 20px;
+    font-family: "Chivo", sans-serif; /* Replace with your preferred font */
+    color: #fff; /* White text color for readability */
+    max-width: 800px;
+    margin: 0 auto; /* Center content */
+  }
+  
+  .point2-header {
+    display: flex;
+    align-items: center;
+    font-family: "Caprasimo", sans-serif; /* Use custom font */
+    gap: 10px; /* Space between number and title */
+    margin-bottom: 20px;
+  }
+  
+  .point2-number {
+    background-color: #073a6f; /* Darker blue background */
+    color: #fff;
+    font-size: 2rem;
+    font-weight: bold;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+  }
+  
+  .point2-header h2 {
+    font-size: 1.8rem;
+    font-family: "Climate Crisis", sans-serif; /* Use custom font if needed */
+    margin: 0;
+  }
+  
+  .point2-body {
+    line-height: 1.6;
+    font-size: 1rem;
+    text-align: justify;
+  }
+  
+  .point2-body strong {
+    font-size: 1.1rem;
+  }
+  
+  .point2-image {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .point2-image img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }

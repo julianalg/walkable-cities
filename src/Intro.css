@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Chivo:ital,wght@0,100..900;1,100..900&display=swap');
+
+.intro-container {
+    background-color: #e6f4ff; /* Light blue background */
+    width: 100vw; /* Full viewport width */
+    margin: 0; /* Remove default margins */
+    padding: 0; /* Remove padding */
+  }
+  
+  .intro-content {
+    max-width: 800px; /* Optional: Limit content width */
+    margin: 0 auto; /* Center content */
+    padding: 20px; /* Add padding for inner content */
+    color: #333; /* Text color */
+    font-family: "Chivo", sans-serif; /* Replace with your preferred font */
+    line-height: 1.6;
+    text-align: justify; /* Justify text for a clean look */
+  }
+  
+  .intro-paragraph {
+    margin-bottom: 20px;
+  }
+  
+  .intro-highlight {
+    color: #000; /* Darker text for emphasis */
+    font-size: 1.1rem; /* Slightly larger font size for emphasis */
+    font-family: "Caprasimo", sans-serif; /* Use custom font */
+  }

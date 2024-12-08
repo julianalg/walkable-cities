@@ -1,0 +1,21 @@
+.footer-container {
+    width: 100vw; /* Full width */
+    background-color: #d7ff00; /* Light green background */
+    margin: 0; /* Remove default margins */
+    padding: 20px 0; /* Vertical padding */
+    text-align: center;
+    font-family: "Climate Crisis", sans-serif; /* Custom font */
+    color: #000; /* Black text */
+  }
+  
+  .footer-author {
+    font-size: 1.5rem; /* Larger text for the author */
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .footer-citation {
+    font-size: 1.2rem; /* Slightly smaller text for "Work Cited" */
+    font-weight: bold;
+    margin: 5px 0 0; /* Add small spacing above */
+  }
