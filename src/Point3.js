@@ -18,7 +18,7 @@ const Point3 = () => {
             </strong>{" "}
             According to the Congress for the New Urbanism, walkable cities help
             improve mental health, foster social interactions and reduce health
-            conditions like obesity. By investing in walkable city
+            conditions like obesity (Steuteville). By investing in walkable city
             infrastructure, cities also help build a more coherent community, as
             more people walk by each other, raising the chances for interaction.
             In addition, as walkable cities prioritize walking as the primary

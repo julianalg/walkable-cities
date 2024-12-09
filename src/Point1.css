@@ -12,7 +12,7 @@
 .point1-content {
   flex: 1;
   padding: 20px;
-  font-family: Arial, sans-serif;
+  font-family: "Chivo", sans-serif; /* Replace with your preferred font */
   color: #333;
   max-width: 800px;
   margin: 0 auto; /* Center content */

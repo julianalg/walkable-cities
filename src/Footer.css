@@ -19,3 +19,7 @@
     font-weight: bold;
     margin: 5px 0 0; /* Add small spacing above */
   }
+
+  a {
+    color: #000; /* Black text for links */
+  }

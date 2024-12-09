@@ -20,7 +20,7 @@ const Point2 = () => {
             vehicles such as cars that typical Americans use for their daily
             routines. Cars are also cited to cost the common American over
             $9,500 a year, an amount that can become overwhelming especially for
-            lower-income families. Walkable cities reduce the reliance for
+            lower-income families (The Climate Reality Project). Walkable cities reduce the reliance for
             people to utilize cars, allowing them to use alternative forms of
             transport. In addition to walking, cities can invest in public
             transit systems such as buses, subways and trains, which can be more

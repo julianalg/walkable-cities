@@ -20,7 +20,7 @@ const Point1 = () => {
             Intergovernmental Panel on Climate Change, cities can reduce their
             transport-related fuel consumption through more combinations of
             compact land use and the less car-dependent infrastructure
-            encouraging individuals to walk or bike. By emphasizing walkability,
+            encouraging individuals to walk or bike (Spielmaker). By emphasizing walkability,
             cities can open up alternative forms of transportation like walking,
             which can be cheaper and more convenient for citizens, as well as
             cleaner for the environment as opposed to cars. By shifting to

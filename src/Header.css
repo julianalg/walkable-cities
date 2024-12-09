@@ -21,7 +21,7 @@
     bottom: 0;
     background: url('../public/header.jpeg') no-repeat center center;
     background-size: cover;
-    filter: blur(4px);
+    filter: blur(2px);
     z-index: 1; /* Ensure it sits behind the text */
   }
   
