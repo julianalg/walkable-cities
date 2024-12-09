@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Header from './Header';
 import Intro from './Intro';
@@ -7,17 +6,19 @@ import Point2 from './Point2';
 import Point3 from './Point3';
 import Conclusion from './Conclusion';
 import Footer from './Footer';
+import WorksCited from './WorksCited';
 
 function App() {
   return (
     <div className="App">
-      <Header />
-      <Intro /> 
-      <Point1 />
-      <Point2 />
-      <Point3 />
-      <Conclusion />
-      <Footer />
+    <Header text={"walkable cities"} />
+    <Intro /> 
+    <Point1 />
+    <Point2 />
+    <Point3 />
+    <Conclusion />
+    <WorksCited />
+    <Footer />
     </div>
   );
 }
