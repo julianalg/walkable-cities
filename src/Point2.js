@@ -12,23 +12,9 @@ const Point2 = () => {
         <div className="point2-body">
           <p>
             <strong>
-              By switching to walkable cities, cities can develop and prioritize
-              cleaner forms of transportation.
+              By transitioning to walkable cities, urban areas can prioritize and develop cleaner, more sustainable forms of transportation. 
             </strong>{" "}
-            According to The Climate Reality Project, transportation accounts
-            for 29% of greenhouse gases, 58% of which is from light-duty
-            vehicles such as cars that typical Americans use for their daily
-            routines. Cars are also cited to cost the common American over
-            $9,500 a year, an amount that can become overwhelming especially for
-            lower-income families (The Climate Reality Project). Walkable cities reduce the reliance for
-            people to utilize cars, allowing them to use alternative forms of
-            transport. In addition to walking, cities can invest in public
-            transit systems such as buses, subways and trains, which can be more
-            efficient and cleaner for the environment. With the increased
-            emphasis on walking and public transport, cities can introduce a
-            better form of transportation for their citizens that is more
-            convenient, efficient, cheaper and ultimately helps solve the
-            climate change.
+            According to The Climate Reality Project, transportation accounts for 29% of greenhouse gas emissions, with 58% of these emissions originating from ligh-duty vehicles such as the cars many Americans rely on for daily commutes. Additionally, cars impose a significant financial burden, costing the average American over $9,500 annually, an amount that can be especially overwhelming for lower-income families (The Climate Reality Project). Walkable cities reduce dependence on cars, enabling residents to opt for alternative modes of transport. Beyond walking, cities can invest in efficient public transist sstems such as buses, subways and trains which are noto nly more enviornmentally friendly but also more cost-effective and accessible. By emphasizing walking and public transit, cities can introduce a transportation model that is more convenient, affordable, and efficient, while simultaneously addressing the urgent challebge of climate change. 
           </p>
         </div>
       </div>

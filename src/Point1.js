@@ -12,21 +12,9 @@ const Point1 = () => {
         <div className="point1-body">
           <p>
             <strong>
-              By switching to walkable cities, cities reduce their emissions
-              from car-related transport, which can help drastically reduce the
-              climate footprint of a region.
+              By transitioning to walkable cities, urban areas can significantly reduce their greenhouse gas emisisons from car-related transportation, thereofre lessening their overall climate footprint. 
             </strong>{" "}
-            According to America Walks, which cites a report from the
-            Intergovernmental Panel on Climate Change, cities can reduce their
-            transport-related fuel consumption through more combinations of
-            compact land use and the less car-dependent infrastructure
-            encouraging individuals to walk or bike (Spielmaker). By emphasizing walkability,
-            cities can open up alternative forms of transportation like walking,
-            which can be cheaper and more convenient for citizens, as well as
-            cleaner for the environment as opposed to cars. By shifting to
-            walkable cities, cities can cut down on its largest part of its
-            emissions while also having additional benefits, such as increased
-            business for local economies and improved health for citizens.
+            In a report cited by America Walks based on findings from the Intergovernmental Panel on Cliamte Change, cities can achieve substaintial reductions in fuel consumptions by implementing compact land-use policies and infrastructure designed to prioitize walking and biking (Spielmaker). Emphasizing walkability not only reduces the reliance on cars but also promotes alternative forms of transportation like walking and biking which are both cost-effective and environmentally friendly as opposed to cars. Besides reducing emissions, walkable cities offer other advantages such as stimulating local economies through increased foot traffic and improving public health by encouraging physical activity. This shift in urban design allows cities to address their largest source of emissions while fostering a more sustainable and livable environment for residents. 
           </p>
         </div>
       </div>
